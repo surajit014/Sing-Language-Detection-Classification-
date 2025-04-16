@@ -11,10 +11,10 @@ from ultralytics import YOLO
 import time
 
 # Load classification model
-model = load_model("D:/SSSS/sign_language(M2)_model.h5")
+model = load_model("sign_language(M2)_model.h5")
 
 # Load YOLOv11n model
-yolo_model = YOLO("D:/SSSS/modelsyolov11n_custom.pt")
+yolo_model = YOLO("modelsyolov11n_custom.pt")
 
 # Class labels
 class_labels = [
