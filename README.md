@@ -6,7 +6,8 @@ To build a real-time and image-based Sign Language Recognition system using deep
 1. Project Pipeline:-
 
 Step 1: Environment Setup
-        python version (3.1.11)
+
+        python version (3.10.11)
 
 A Python virtual environment was created to manage dependencies and ensure a clean development environment.
 
